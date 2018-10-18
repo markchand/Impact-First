@@ -13,7 +13,7 @@ rm(list = ls())
 
 ## Outline 
 * Obligatory paragraph about the rise of social entrepreneurship (?)
-  * Or skip it ¯\_(ツ)_/¯
+  * Or skip it...? 
 * But we have a categorization problem 
   * Substantiantiate 
 * This is our job as academics 
@@ -30,6 +30,7 @@ rm(list = ls())
 * Here's how it's been done in other fields
   * Entrepreneurship 
   * Two-sided markets 
+  * Cooperatives 
   * Couple other examples? 
 * Here have been previous efforts in socent 
   * In academia
@@ -44,7 +45,31 @@ rm(list = ls())
   * No on is using them 
     * Is that true? One test that they fail: They still require subjective interpretation 
     
-> Proposition 1: We're still a few rounds away from something useful enough for future researchers to build on, and for practitioners to think is useful 
-  
+###### Proposition 1: We're still a few rounds away from something useful enough for future researchers to build on, and for practitioners to think is useful 
 * Unclear how to transition; look back at Lounsbury and Glenn for advice 
+* The proposal: A two-factor categorization system 
+  * Impact
+  * Money 
+* Impact
+  * User 
+  * Producer
+  * Other beneficiary 
+* Money 
+  * Donor, user, customer, member
+* Resulting system 
+* Test cases
+  * UnLtd (USA?)
+  * Techstars Impact
+  * Acumen
+  * Bridges 
+  * Somebody in India
+  * Village Capital 
 
+###### Proposition 2: The categorization system most useful to both academics and practitioners will start with categorizing social enterprises by the location of the primary impact they want to have, relative to the location of cash flows into the organization.
+* Some oppositions and weaknesses 
+  * Multiple sources of revenue
+  * Multiple locations of impact 
+  * 
+* Conclusions and future research 
+  * Empirical testing 
+  * 
