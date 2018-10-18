@@ -1,0 +1,50 @@
+---
+title: "A Pragmatic Typology of Impact Enterprise"
+author: "Mark Clayton Hand"
+date: "10/18/2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, cache = TRUE, message=FALSE, warning=FALSE)
+rm(list = ls())
+```
+
+
+## Outline 
+* Obligatory paragraph about the rise of social entrepreneurship (?)
+  * Or skip it ¯\_(ツ)_/¯
+* But we have a categorization problem 
+  * Substantiantiate 
+* This is our job as academics 
+  * Substantiate
+    * With current authors
+    * With old authors
+    * With John Gardner 
+* What should a good categorization system do? 
+  * Be useful 
+  * Be clarifying 
+  * Guide future research 
+  * Predict outcomes 
+  * Is this basically the same as good theory? 
+* Here's how it's been done in other fields
+  * Entrepreneurship 
+  * Two-sided markets 
+  * Couple other examples? 
+* Here have been previous efforts in socent 
+  * In academia
+    * Focus on Alter 
+    * Give some metrics for most-cited, maybe 
+  * Outside of it 
+    * Focus on GIIN 
+    * Zoe's impact risk 
+* They aren't working (feels shakiest)
+  * They fail the above tests 
+    * Is that true? 
+  * No on is using them 
+    * Is that true? One test that they fail: They still require subjective interpretation 
+    
+> Proposition 1: We're still a few rounds away from something useful enough for future researchers to build on, and for practitioners to think is useful 
+  
+* Unclear how to transition; look back at Lounsbury and Glenn for advice 
+
