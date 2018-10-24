@@ -1,5 +1,5 @@
 ---
-title: "A Pragmatic Typology of Impact Enterprise"
+title: "Users, Customers and Beneficiaries: A Relational Typology of Social Enterprises [DRAFT]"
 author: "Mark Clayton Hand"
 date: "10/18/2018"
 output: pdf_document
@@ -10,28 +10,62 @@ knitr::opts_chunk$set(echo = TRUE, cache = TRUE, message=FALSE, warning=FALSE)
 rm(list = ls())
 ```
 
+Grammarians tend to discourage the use of the English word *deceptively* before an adjective: It tends to confuse, rather than clarify. If I describe a group of researchers as *deceptively good-looking,* for example, you might understand me to mean seemingly good-looking, but less so in reality. Or you might infer it to be shockingly good-looking, though less so at first glance. You would be technically correct either way, and the attractiveness of the researchers in question would remain unhelpfully unclear. 
 
-## Outline 
-* Obligatory paragraph about the rise of social entrepreneurship (?)
-  * Or skip it...? 
-* But we have a categorization problem 
-  * Substantiantiate 
+https://www.grammarphobia.com/blog/2010/08/a-deceptively-tricky-word.html
+The American Heritage Dictionary of the English Language  
+
+The phrase *social enterprise* is deceptively simple, by both interpretations. Its apparent simplicity has unfolded into a number of conflicting efforts to define explicate, and categorize it. Researchers and practitioners from multiple fields have laid claim to it and to its rhetorical cousins. The closer we look, the more complicated it gets. 
+
+But as this paper aims to show, social enterprise is deceptively simple in the other interpretation, too. It appears a complex topic. But if we speak plainly, it is a simple matter indeed. Seemingly complicated questions of how to finance, staff, support, study, and regulate social enterprises simplify if we ask two simple questions of each organization: (1) Where is the impact and (2) Where does the money come from?  
+
+The paper proceeds in three parts: First, I ask why social enterprise researchers should care about the question of categorization, and what good categorization systems look like. Second, I examine prior efforts at categorization. Third, I offer a pragmatic categorization system for consideration, and hopefully use, by social enterprise practioners and researchers. 
+
+## Why Care About Categories? 
+
+Does this question even matter? I argue that it does, and here's a bunch of other people saying it is important, too. 
+
+In the absence of decent categorization system, 
+
+- We don't have shared language
+- We can't study anything empirically 
+- We can't figure out how to regulate these things 
+- We get lost conversationally 
+- Unscrupulous actors will take advantage
+- Less impact will be had 
+- We won't direct resources appropriately 
+- The field won't be able to attract others 
+- Entrepreneurs can't find resources 
+- We retreat into constructivism 
+- We make bad ones, because we can't not 
+- We can't build theory 
+- Individuals can't talk about what they do 
+Categorization as power. Bad categorizations ignore power, and leave room for its abuse. The absence of categorization is the same. 
+
 * This is our job as academics 
   * Substantiate
     * With current authors
     * With old authors
-    * With John Gardner 
+
+## Good Categories, Bad Categories 
+
+"In science and scholarship," according to John Gardner, "the most valuable property of a concept is its usefulness to succeeding investigators in their further research and theorizing."
+
+This section should touch on the pragmatists
+Touch on our psychological need to categorize? 
+History of categorization, per that article I printed 
+
+Propose consolidated, practical test of categorizations based on others' claims. 
+
 * What should a good categorization system do? 
   * Be useful 
   * Be clarifying 
   * Guide future research 
   * Predict outcomes 
   * Is this basically the same as good theory? 
-* Here's how it's been done in other fields
-  * Entrepreneurship 
-  * Two-sided markets 
-  * Cooperatives 
-  * Couple other examples? 
+
+## The Many Categorizations of Social Enterprise 
+
 * Here have been previous efforts in socent 
   * In academia
     * Focus on Alter 
@@ -42,34 +76,137 @@ rm(list = ls())
 * They aren't working (feels shakiest)
   * They fail the above tests 
     * Is that true? 
-  * No on is using them 
+  * No one is using them 
     * Is that true? One test that they fail: They still require subjective interpretation 
+  * Here's how it's been done in other fields
+    * Entrepreneurship 
+    * Two-sided markets 
+    * Cooperatives 
+    * Couple other examples? 
     
 ###### Proposition 1: We're still a few rounds away from something useful enough for future researchers to build on, and for practitioners to think is useful 
-* Unclear how to transition; look back at Lounsbury and Glenn for advice 
-* The proposal: A two-factor categorization system 
-  * Impact
-  * Money 
-* Impact
-  * User 
-  * Producer
-  * Other beneficiary 
-* Money 
-  * Donor, user, customer, member
-* Resulting system 
-* Test cases
-  * UnLtd (USA?)
-  * Techstars Impact
-  * Acumen
-  * Bridges 
-  * Somebody in India
-  * Village Capital 
+
+## A Pragmatic, Impact-First Categorization of Social Enterprises 
+
+In Two Acts: 
+
+### Where is the money coming from? 
+
+The user? Customers' customers? Donors? Users' employees? Customers' users? This is an old debate in two-sided business models, and in 
+
+* User-as-customer. Better Living Technologies; MDaaS Global; Bridgecare Finance (if direct to customers)
+
+* Customer as seller or giver of product to end-user. Some of Acumen's portfolio? Healthcare companies, maybe. 
+
+* Customer purchases impact, given to user. They're unrelated. Acumen Fund itself, in part. TOMs. 
+
+* Customer buys product of user: Good, service, labor. Under the Mango Tree. Clair (ads?) ; Haven Connect (B2B); Kutumbita (B2B); Pipeline Equity (B2B); TommyRun (Non-using Customers); Base Operations (B2B); Bridgecare Finance (if B2B)
+
+What to do with Pipeline Equity? 
+Revenue, not investment. Investment is a tricky word, because people sometimes use it to mean "donation." I consider a donation revenue.
+
+The bulk of both organizations' investments are in the right-hand side of their business model when it comes to impact. That begs a deeper level of categorization: Where is the money coming from?
+
+### Who is being impacted? 
+
+Let's call them the beneficiary for now, for lack of a better term. Other possibilities: Impacted individual. Impact targets sounds a bit military. 
+
+Who, or what, is being impacted? Who is paying? And what is their relationship to the company? Important here: The primary impact of the enterprise. This is limiting, but clarifying. And defined in relation to the paying customer. Possibilities: 
+
+* Producer-focused. Under the Mango Tree, TommyRun. Clair, maybe. 
+
+* Customer-focused. 
+  * Customers: Waterhealth International, nearly everyone else in the Acumen portfolio?; Better Living Technologies; Bridgecare Finance; MDaaS Global; Haven Connect. 
+  * (CoC) Drishtee; SEED; Healthcare companies 
+  * Customers' employees. Base Operations (B2B); Kutumbita (B2B); Pipeline Equity 
+
+Other category: External Beneficiaries.
+
+What other categories exist? Whole communities? The planet. 
+What happens if we take into account multiple areas of impact? More precision, less parsimony. 
+Where does Pipeline Equity fit? Could be customer-focused, but it's derivative: Customers (companies) can do whatever they want with the product (information about their employees). 
 
 ###### Proposition 2: The categorization system most useful to both academics and practitioners will start with categorizing social enterprises by the location of the primary impact they want to have, relative to the location of cash flows into the organization.
 * Some oppositions and weaknesses 
   * Multiple sources of revenue
   * Multiple locations of impact 
-  * 
-* Conclusions and future research 
-  * Empirical testing 
-  * 
+
+## Limitations
+Organizations that claim multiple forms of impact 
+Some of these might be incorrect; some data was available, but not all. Underscores need for clarity 
+Where do customers of customers go? 
+
+## Conclusions and future research 
+What happened? 
+What's next? Trying out with other portfolio copmanies 
+Validating, testing. How might we test this empirically? 
+What's next, theoretically: *Who is in charge?* 
+
+One possibility: ANDE data. 
+
+Given people some enterprise descriptions, and see whether it works. 
+
+Ultimately, will depend on whether people use it. By "people," I mean researchers, government agencies, entrepreneurs themselves, and investors. Who am I missing? 
+
+One example of this working in practice is in South Korea, where organizations are divided according to impact: 
+
+"To be certified, organizations should make the proof of the relationship between their activities and the disadvantaged profiting from these activities. There can be four different types of social enterprise: work integration type (at least 50 per cent of employees must be disadvantaged persons), social services provision type (at least 50 per cent of the recipients must be disadvantaged persons), a mixed type of both, and others (for example, social enterprise for environmental activity)."
+
+From: Social Enterprise in South Korea: History and Diversity
+Eric BIDET (Associate Professor, Le Mans University, France) and EUM Hyung-Sik (Ph D Candidate, Liège University, Belgium)
+
+Another test: What will future researchers use? 
+Another test: Ask researchers to try to put different systems into practice
+Another test: Ask practitioners to put different systems into practice
+Test: Level of subjectivity involved in placement into different systems 
+
+\newpage
+### Appendix A
+
+#### Acumen Fund's Investments in India
+
+Company Name | Description  
+-----------------------------|--------------------------------------------------------------------
+Aarusha Homes | Aarusha Homes provides rental housing solutions to low-income migrants living in India’s urban cities. 
+Asian Health Alliance | AHA offers medical diagnostics in low income semi-urban and rural areas. 
+Avani Bio Energy | Avani’s 120 kW power plants convert pine needles into electricity which is fed directly into the existing grid, providing reliable and clean energy to the area.
+Basix Krishi | BASIX Krishi uses a network of trained Livelihood Service Providers (LSPs) who deliver in-person extension service to farmers; in return for an upfront subscription fee, farmers get access to a minimum of one visit every two weeks to their farm and on-call support for queries or questions they may have. 
+Drishtee | Drishtee builds service kiosks to provide villages with access to Internet connections, consumer products and critical community services. 
+Edubridge | For a small fee, students enter Edubridge’s a customized job training and placement program catering to students with high-school diplomas or dropouts from urban or peri-urban training centers.
+Frontier Markets | The company partners with retailers that sell energy products such as solar lanterns and home systems, selling their products through brick-and-mortar stores.
+Global Easy Water Products | GEWP distributes low-cost drip irrigation products designed specifically for smallholder farmers in India. GEWP distributes its products through a network of private local dealers in seven states.
+Greenway Grameen | Greenway Grameen Infra’s flagship stove uses unique airflow technology to yield higher temperatures, reducing fuel use up to 50 percent as compared to traditional cook stoves.
+Guardian | Guardian makes microloans to households to purchase individual water and sanitation assets, including connections to municipal water supply, toilet construction, rainwater harvesting equipment, and household water purifiers.
+Healthcubed | Heathlcubed sells an internet-connected, portable tablet that can conduct more than 30 point-of-care diagnostic tests as well as screenings, follow-up services and back-end health analytics. 
+Husk Power Systems | Husk builds power plants that take agricultural waste, rice husks otherwise left to rot, and converts it into gas that powers an off-the-shelf turbine to generate electricity.
+Ignis Careers | Ignis Careers has developed the English and Life Skills Lab, an enhancement program that addresses the gaps in low-cost private primary and middle schools.
+Labournet | Labournet offers work-integrated job training for informal sector workers in trades such as construction, manufacturing, leather, and beauty among others. 
+Lifespring | Lifespring operates a chain of small (25-bed) hospitals across India.
+Orb Energy | Orb Energy provides access to affordable, renewable energy through its solar home systems. Orb sells, installs, and services a full range of systems: solar photovoltaic systems for lighting and back-up power, solar thermal for hot water, solar street lighting for security, as well as energy efficient lights, fans and other appliances. 
+Our Family Clinic | Our Family Clinic operates health clinics close to low-income customers living in rural villages and peri-urban communities. 
+PVRI | PVRI operates hospitals provide specialized eye care, with a special focus on treating diabetic blindness, childhood blindness, and corneal blindness.
+Sahayog | Sahayog offers farmers training, basic veterinary care, high-quality inputs and services improve both output and quality of milk. 
+SEED Education Corporation | Seed works with underperforming low-cost private K-10 schools to institute a standardized curriculum, teacher training and other operational processes. 
+SEWA Grih Rin | SEWA Grih Rin providing small loans to enable women to invest the maintenance and improvement of their homes by adding storefronts and toilets. 
+Under The Mango Tree | Under the Mango Tree trains smallholder farmers in rural India to keep bees to improve productivity, increase incomes and enhance livelihoods. 
+Vikalp | Vikalp works with low-cost private schools to improve learning outcomes through an experiential math curriculum, utilizing learning aids and math kits along with supporting teacher development for primary students. 
+Waterhealth International | WHI installs community water systems, which purify and sell water to rural customers. 
+Ziqitza Health Care Limited | ZHL operates an ambulance service with a sliding price scale that depends on a customer’s ability to pay, as determined by the hospital type selected by the patient.
+
+Source: https://acumen.org/companies/ Accessed Oct 24 2018. Omitted: BioLite, which appears to be based in India but is based in East Africa. Descriptions heavily edited: Frontier Markets, Guardian, PVRI, Sewa, Waterhealth International, and ZHL. 
+
+Appendix B: Techstars Impact 2018 Investments
+
+Company Name | Description  
+---------------------------|---------------------------------------------------------------------
+Better Living Technologies | A monitoring solution for patients and caregivers to better manage chronic disease at home, enabling better disease management and relieving caregiver stress.
+Bridgecare Finance | Consumer lending platform offering financing to make childcare more affordable and provide working mothers with better options to maintain their career paths.
+MDaaS Global | Low-cost diagnostic and primary care centers that provide high-quality, affordable care to Africa’s next billion.
+TommyRun | On-demand delivery platform for construction materials, reducing operational inefficiencies for contractors while increasing wage opportunities for day laborers.
+Kutumbita | Communication and engagement platform for companies to manage, train and engage their factory workforce across supply chains
+Base Operations | B2B security and risk management platform that visualizes crime in heat maps for teams in emerging markets
+Haven Connect | Property management software to streamline the affordable housing application process
+Pipeline Equity | HR tech platform that increases financial performance of companies by eliminating gender bias.
+Clair | Low-cost environmental monitoring for companies and communities who need to know what is in the environment around them.
+
+Source: https://www.techstars.com/content/author/zoe-schlag/
