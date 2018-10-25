@@ -1,5 +1,5 @@
 ---
-title: "Users, Customers and Beneficiaries: A Relational Typology of Social Enterprises [DRAFT]"
+title: "Users, Customers and Beneficiaries: A Pragmatic Typology of Social Enterprises [DRAFT]"
 author: "Mark Clayton Hand"
 date: "10/18/2018"
 output: pdf_document
@@ -10,155 +10,101 @@ knitr::opts_chunk$set(echo = TRUE, cache = TRUE, message=FALSE, warning=FALSE)
 rm(list = ls())
 ```
 
-Grammarians tend to discourage the use of the English word *deceptively* before an adjective: It tends to confuse, rather than clarify. If I describe a group of researchers as *deceptively good-looking,* for example, you might understand me to mean seemingly good-looking, but less so in reality. Or you might infer it to be shockingly good-looking, though less so at first glance. You would be technically correct either way, and the attractiveness of the researchers in question would remain unhelpfully unclear. 
+This stuff is complicated. It's complicated becuase we're not speaking clearly. 
 
-https://www.grammarphobia.com/blog/2010/08/a-deceptively-tricky-word.html
-The American Heritage Dictionary of the English Language  
+Historically, U=C in private business. But more and more recent companies are U/=C. Most common are ad-driven tech companies. Any other company where customers are paying for access to someone, maybe?
 
-The phrase *social enterprise* is deceptively simple, by both interpretations. Its apparent simplicity has unfolded into a number of conflicting efforts to define explicate, and categorize it. Researchers and practitioners from multiple fields have laid claim to it and to its rhetorical cousins. The closer we look, the more complicated it gets. 
+<!-- https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q=customers+and+users+two-sided+business+models&btnG= --> 
 
-But as this paper aims to show, social enterprise is deceptively simple in the other interpretation, too. It appears a complex topic. But if we speak plainly, it is a simple matter indeed. Seemingly complicated questions of how to finance, staff, support, study, and regulate social enterprises simplify if we ask two simple questions of each organization: (1) Where is the impact and (2) Where does the money come from?  
+Credit scoring companies are an interesting example where U/=C. 
 
-The paper proceeds in three parts: First, I ask why social enterprise researchers should care about the question of categorization, and what good categorization systems look like. Second, I examine prior efforts at categorization. Third, I offer a pragmatic categorization system for consideration, and hopefully use, by social enterprise practioners and researchers. 
+And education, arguably, if U=student and true C=companies hiring them. 
 
-## Why Care About Categories? 
+<!-- Maybe Emery, C., Kramer, T., & Tian, R. (2001). Customers vs. products: adopting an effective approach to business students. Quality Assurance in Education, 9(2), 110-115. --> 
 
-Does this question even matter? I argue that it does, and here's a bunch of other people saying it is important, too. 
+Broadcast television is a U/=C model, too. Cable TV added an element where U=C, making them both--but it was thinking about user as potential customer that got us there. 
 
-In the absence of decent categorization system, 
+There are other ways in which customer might not equal user. Kids' toys, for example. Wedding rings, for example. College tuition. In the gap between user and customer, there is much money to be made. 
 
-- We don't have shared language
-- We can't study anything empirically 
-- We can't figure out how to regulate these things 
-- We get lost conversationally 
-- Unscrupulous actors will take advantage
-- Less impact will be had 
-- We won't direct resources appropriately 
-- The field won't be able to attract others 
-- Entrepreneurs can't find resources 
-- We retreat into constructivism 
-- We make bad ones, because we can't not 
-- We can't build theory 
-- Individuals can't talk about what they do 
-Categorization as power. Bad categorizations ignore power, and leave room for its abuse. The absence of categorization is the same. 
+Social enterprises add another dimension, via philanthropy: Beneficiaries. Because social enterprises offer the promise of having some social impact, there is an extra layer of relationship to consider. 
 
-* This is our job as academics 
-  * Substantiate
-    * With current authors
-    * With old authors
+Thinking clearly about this leads to a categorization of social enterprises based on the relationships among their users, customers, and beneficiaries. Sometimes they're all the same: Waterhealth International sells purification services to low-income residents, and are themselves the primary intended benficiary. Sometimes, especially in philanthropic instances, the customer, user and beneficiary are all distinct (example??). 
 
-## Good Categories, Bad Categories 
+## Is this distinction clear? 
+Yes, under certain circumstances. Sometimes groups have multiple revenue streams, and sometimes they have multiple intended beneficiaries. And sometimes they have multiple, distinct user bases. But more often than not, there is enough clarity about where the money is coming from, who is using a product or service, and who it is intended to benefit that we can draw pretty clear distinctions from within the universe of social enterprises, and maybe philanthropic efforts, too. 
 
-"In science and scholarship," according to John Gardner, "the most valuable property of a concept is its usefulness to succeeding investigators in their further research and theorizing."
+## Is this distinction useful? 
+Maybe. It may be that mapping out the relationships among these actors helps get us to categories that weren't obvious before, but which predict other things that we want to know about social enterprises: How to fund them, how to support them, how to regulate them, how to theorize about them, how to staff them, how to market them, how to lead them. 
 
-This section should touch on the pragmatists
-Touch on our psychological need to categorize? 
-History of categorization, per that article I printed 
+<!-- Model this off of Discovery v Creation paper -->
 
-Propose consolidated, practical test of categorizations based on others' claims. 
+So, here are the different models, with examples pulled from the investment portfolios of two groups: Techstars Impact, a network of investment funds that runs accelerators, and recently launched a social impact-focused fund; and Acumen Fund, a nonprofit that, for the most part, accepts grant dollars and then invests it in enterprises mostly in the developing world. This paper focuses on its India portfolio, for starters. ... and here's where they all fit, based on publicly available information. 
 
-* What should a good categorization system do? 
-  * Be useful 
-  * Be clarifying 
-  * Guide future research 
-  * Predict outcomes 
-  * Is this basically the same as good theory? 
+## Models 
+C = B = U 
+Bridgecare Finance	Techstars Impact
+MDaaS Global	Techstars Impact
+Better Living Technologies	Techstars Impact
+Aarusha Homes	Acumen Fund in India
+Basix Krishi	Acumen Fund in India
+Greenway Grameen	Acumen Fund in India
+Guardian	Acumen Fund in India
+Lifespring	Acumen Fund in India
+Orb Energy	Acumen Fund in India
+Our Family Clinic	Acumen Fund in India
+PVRI	Acumen Fund in India
+Sahayog	Acumen Fund in India
+SEWA Grih Rin	Acumen Fund in India
+Waterhealth International	Acumen Fund in India
 
-## The Many Categorizations of Social Enterprise 
+C = U /= B
+TommyRun	Techstars Impact
+Kutumbita	Techstars Impact
+Pipeline Equity	Techstars Impact
+Base Operations	Techstars Impact
+Haven Connect	Techstars Impact
+Under The Mango Tree	Acumen Fund in India
+Healthcubed	Acumen Fund in India
+Vikalp	Acumen Fund in India
 
-* Here have been previous efforts in socent 
-  * In academia
-    * Focus on Alter 
-    * Give some metrics for most-cited, maybe 
-  * Outside of it 
-    * Focus on GIIN 
-    * Zoe's impact risk 
-* They aren't working (feels shakiest)
-  * They fail the above tests 
-    * Is that true? 
-  * No one is using them 
-    * Is that true? One test that they fail: They still require subjective interpretation 
-  * Here's how it's been done in other fields
-    * Entrepreneurship 
-    * Two-sided markets 
-    * Cooperatives 
-    * Couple other examples? 
-    
-###### Proposition 1: We're still a few rounds away from something useful enough for future researchers to build on, and for practitioners to think is useful 
+B = U /= C 
+Drishtee	Acumen Fund in India
+Frontier Markets	Acumen Fund in India
+Global Easy Water Products	Acumen Fund in India
+Ignis Careers	Acumen Fund in India
+Labournet	Acumen Fund in India
+SEED Education Corporation	Acumen Fund in India
 
-## A Pragmatic, Impact-First Categorization of Social Enterprises 
+C = B /= U
+Nobody? Franchise designed for employment, maybe? 
 
-In Two Acts: 
+C /= B /= U 
+Clair, maybe, if B = P 
 
-### Where is the money coming from? 
+Here are a few that are interesting enough to raise questions about the suitability of the model: 
+Clair	Techstars Impact
+Edubridge	Acumen Fund in India
+Husk Power Systems	Acumen Fund in India
+Asian Health Alliance	Acumen Fund in India
+Avani Bio Energy	Acumen Fund in India
+Ziqitza Health Care Limited	Acumen Fund in India
 
-The user? Customers' customers? Donors? Users' employees? Customers' users? This is an old debate in two-sided business models, and in 
+<!-- Get clarity (from Molly? Rob?) on Acumen Fund, and then use some of the TS companies as models --> 
 
-* User-as-customer. Better Living Technologies; MDaaS Global; Bridgecare Finance (if direct to customers)
+<!--How to visualize this? Venn Diagram doesn't work. -->
 
-* Customer as seller or giver of product to end-user. Some of Acumen's portfolio? Healthcare companies, maybe. 
+Sometimes, beneficiary is the environment, broadly. That isn't the case with these groups, but you can imagine it being that way. 
 
-* Customer purchases impact, given to user. They're unrelated. Acumen Fund itself, in part. TOMs. 
 
-* Customer buys product of user: Good, service, labor. Under the Mango Tree. Clair (ads?) ; Haven Connect (B2B); Kutumbita (B2B); Pipeline Equity (B2B); TommyRun (Non-using Customers); Base Operations (B2B); Bridgecare Finance (if B2B)
+## What might this help us predict? 
+Funding needs and patterns. Hiring requirements. Strategy. Leadership requirements. Marketing requirements. Capital requirements. Regulatory requirements. 
 
-What to do with Pipeline Equity? 
-Revenue, not investment. Investment is a tricky word, because people sometimes use it to mean "donation." I consider a donation revenue.
+## How might we apply this? 
+Here's guesses at what we'd see, based on these categories 
 
-The bulk of both organizations' investments are in the right-hand side of their business model when it comes to impact. That begs a deeper level of categorization: Where is the money coming from?
-
-### Who is being impacted? 
-
-Let's call them the beneficiary for now, for lack of a better term. Other possibilities: Impacted individual. Impact targets sounds a bit military. 
-
-Who, or what, is being impacted? Who is paying? And what is their relationship to the company? Important here: The primary impact of the enterprise. This is limiting, but clarifying. And defined in relation to the paying customer. Possibilities: 
-
-* Producer-focused. Under the Mango Tree, TommyRun. Clair, maybe. 
-
-* Customer-focused. 
-  * Customers: Waterhealth International, nearly everyone else in the Acumen portfolio?; Better Living Technologies; Bridgecare Finance; MDaaS Global; Haven Connect. 
-  * (CoC) Drishtee; SEED; Healthcare companies 
-  * Customers' employees. Base Operations (B2B); Kutumbita (B2B); Pipeline Equity 
-
-Other category: External Beneficiaries.
-
-What other categories exist? Whole communities? The planet. 
-What happens if we take into account multiple areas of impact? More precision, less parsimony. 
-Where does Pipeline Equity fit? Could be customer-focused, but it's derivative: Customers (companies) can do whatever they want with the product (information about their employees). 
-
-###### Proposition 2: The categorization system most useful to both academics and practitioners will start with categorizing social enterprises by the location of the primary impact they want to have, relative to the location of cash flows into the organization.
-* Some oppositions and weaknesses 
-  * Multiple sources of revenue
-  * Multiple locations of impact 
-
-## Limitations
-Organizations that claim multiple forms of impact 
-Some of these might be incorrect; some data was available, but not all. Underscores need for clarity 
-Where do customers of customers go? 
-
-## Conclusions and future research 
-What happened? 
-What's next? Trying out with other portfolio copmanies 
-Validating, testing. How might we test this empirically? 
-What's next, theoretically: *Who is in charge?* 
-
-One possibility: ANDE data. 
-
-Given people some enterprise descriptions, and see whether it works. 
-
-Ultimately, will depend on whether people use it. By "people," I mean researchers, government agencies, entrepreneurs themselves, and investors. Who am I missing? 
-
-One example of this working in practice is in South Korea, where organizations are divided according to impact: 
-
-"To be certified, organizations should make the proof of the relationship between their activities and the disadvantaged profiting from these activities. There can be four different types of social enterprise: work integration type (at least 50 per cent of employees must be disadvantaged persons), social services provision type (at least 50 per cent of the recipients must be disadvantaged persons), a mixed type of both, and others (for example, social enterprise for environmental activity)."
-
-From: Social Enterprise in South Korea: History and Diversity
-Eric BIDET (Associate Professor, Le Mans University, France) and EUM Hyung-Sik (Ph D Candidate, Liège University, Belgium)
-
-Another test: What will future researchers use? 
-Another test: Ask researchers to try to put different systems into practice
-Another test: Ask practitioners to put different systems into practice
-Test: Level of subjectivity involved in placement into different systems 
+## How else? 
+Apply to Techstars Impact data 
+Apply to ANDE Emory data 
 
 \newpage
 ### Appendix A
